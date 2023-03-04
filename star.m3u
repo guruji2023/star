@@ -1,0 +1,11 @@
+﻿#EXTM3U
+
+#EXTINF:-1 group-title="Star", Star Plus
+http://146.190.166.221/madstream/starplus/index.m3u8
+
+#EXTINF:-1 group-title="Star", Star Bharat
+http://146.190.166.221/madstream/starbharat/index.m3u8
+
+#EXTINF:-1 group-title="Star", Star Gold
+http://146.190.166.221/madstream/stargold/index.m3u8
+
